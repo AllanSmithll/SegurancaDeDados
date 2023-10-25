@@ -1,0 +1,182 @@
+Varredura do dia 22-09-2023 
+    
+Ethernet 2:
+Endereáo-Ip n¢: [169.254.198.115] Identificador de escopo: []
+
+    N∆o h† nomes no cache
+    
+Ethernet 3:
+Endereáo-Ip n¢: [192.168.56.1] Identificador de escopo: []
+
+    N∆o h† nomes no cache
+    
+Ethernet:
+Endereáo-Ip n¢: [0.0.0.0] Identificador de escopo: []
+
+    N∆o h† nomes no cache
+    
+Conex∆o de Rede Bluetooth:
+Endereáo-Ip n¢: [0.0.0.0] Identificador de escopo: []
+
+    N∆o h† nomes no cache
+    
+Conex∆o Local* 1:
+Endereáo-Ip n¢: [0.0.0.0] Identificador de escopo: []
+
+    N∆o h† nomes no cache
+    
+Wi-Fi:
+Endereáo-Ip n¢: [192.168.0.106] Identificador de escopo: []
+
+    N∆o h† nomes no cache
+    
+Conex∆o Local* 2:
+Endereáo-Ip n¢: [0.0.0.0] Identificador de escopo: []
+
+    N∆o h† nomes no cache
+
+Perfil do Dom√≠nio Configura√ß√µes: 
+----------------------------------------------------------------------
+Estado                                Ligado
+Pol√≠tica de Firewall                  BlockInbound,AllowOutbound
+LocalFirewallRules                    N/D (apenas reposit√≥rio GPO)
+LocalConSecRules                      N/D (apenas reposit√≥rio GPO)
+InboundUserNotification               Habilitar
+RemoteManagement                      Desabilitar
+UnicastResponseToMulticast            Habilitar
+
+Registrando em log:
+LogAllowedConnections                 Desabilitar
+LogDroppedConnections                 Desabilitar
+FileName                              %systemroot%\system32\LogFiles\Firewall\pfirewall.log
+MaxFileSize                           4096
+
+
+Perfil Particular Configura√ß√µes: 
+----------------------------------------------------------------------
+Estado                                Ligado
+Pol√≠tica de Firewall                  BlockInbound,AllowOutbound
+LocalFirewallRules                    N/D (apenas reposit√≥rio GPO)
+LocalConSecRules                      N/D (apenas reposit√≥rio GPO)
+InboundUserNotification               Habilitar
+RemoteManagement                      Desabilitar
+UnicastResponseToMulticast            Habilitar
+
+Registrando em log:
+LogAllowedConnections                 Desabilitar
+LogDroppedConnections                 Desabilitar
+FileName                              %systemroot%\system32\LogFiles\Firewall\pfirewall.log
+MaxFileSize                           4096
+
+
+Perfil P√∫blico Configura√ß√µes: 
+----------------------------------------------------------------------
+Estado                                Ligado
+Pol√≠tica de Firewall                  BlockInbound,AllowOutbound
+LocalFirewallRules                    N/D (apenas reposit√≥rio GPO)
+LocalConSecRules                      N/D (apenas reposit√≥rio GPO)
+InboundUserNotification               Habilitar
+RemoteManagement                      Desabilitar
+UnicastResponseToMulticast            Habilitar
+
+Registrando em log:
+LogAllowedConnections                 Desabilitar
+LogDroppedConnections                 Desabilitar
+FileName                              %systemroot%\system32\LogFiles\Firewall\pfirewall.log
+MaxFileSize                           4096
+
+Ok.
+
+
+Configuraá∆o de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : Allan-Acer-01
+   Sufixo DNS prim†rio . . . . . . . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . . . . . . : h°brido
+   Roteamento de IP ativado. . . . . . . . . . : n∆o
+   Proxy WINS ativado. . . . . . . . . . . . . : n∆o
+
+Adaptador Ethernet Ethernet:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Endereáo F°sico . . . . . . . . . . . . . . : 70-69-79-AC-B1-8D
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Endereáo F°sico . . . . . . . . . . . . . . : 0A-00-27-00-00-05
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::5d3c:6d77:bbca:290b%5(Preferencial) 
+   Endereáo IPv4 de Configuraá∆o Autom†tica. . : 169.254.198.115(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 84541479
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2A-04-23-FF-70-69-79-AC-B1-8D
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet Ethernet 3:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Endereáo F°sico . . . . . . . . . . . . . . : 0A-00-27-00-00-03
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::290:10bc:401:2cd1%3(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.56.1(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 822738983
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2A-04-23-FF-70-69-79-AC-B1-8D
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador de Rede sem Fio Conex∆o Local* 1:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endereáo F°sico . . . . . . . . . . . . . . : 76-4C-A1-83-08-21
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conex∆o Local* 2:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endereáo F°sico . . . . . . . . . . . . . . : 76-4C-A1-83-08-31
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+   Endereáo F°sico . . . . . . . . . . . . . . : 74-4C-A1-83-08-61
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::d186:9e49:5817:aefd%11(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.0.106(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concess∆o Obtida. . . . . . . . . . . . . . : quinta-feira, 21 de setembro de 2023 18:54:15
+   Concess∆o Expira. . . . . . . . . . . . . . : sexta-feira, 22 de setembro de 2023 01:31:03
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 192.168.0.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.0.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 91507873
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2A-04-23-FF-70-69-79-AC-B1-8D
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.0.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet Conex∆o de Rede Bluetooth:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Endereáo F°sico . . . . . . . . . . . . . . : 74-4C-A1-83-08-62
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
